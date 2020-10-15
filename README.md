@@ -1,3 +1,4 @@
 # Hello-world
-hello github
+//hello github
 oh, I get it!
+print("hello world!");
